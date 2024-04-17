@@ -38,9 +38,9 @@ export default function Component() {
       />
       
       <main>
-        {/* <SectionHeader /> */}
+        <SectionHeader />
 
-        {/* <Visao />
+        <Visao />
 
         <Areas />
 
@@ -50,7 +50,7 @@ export default function Component() {
 
         <Equipe />
 
-        <Depoimentos /> */}
+        <Depoimentos />
       </main>
     </>
   );
